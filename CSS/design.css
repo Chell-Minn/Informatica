@@ -1,5 +1,22 @@
 body {
-    background-color: greenyellow;
-    font-family: sans-serif;
-    color:purple;
+    background-color: #F3E9D2;
+    font-family: Arial, sans-serif;
+    color: #1A936F;
+    margin: 0px 50px;
+}
+
+h1 {
+    color: #114B5F;
+}
+
+img
+{
+    width: 100%;
+}
+
+.container {
+    background-color: #C6DABF;
+    box-shadow: 2px 2px 10px #114B5F;
+    padding: 4px 20px;
+    margin: 30px 0px;
 }
