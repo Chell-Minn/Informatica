@@ -1,24 +1,24 @@
 html,body{
     height: 100%;
     width: 100%
-
 }
+
 body{
      background-color:white;
     font-size: 50px;
     margin: 0%;
 }
+
 #titel{
     background-color:  aqua;
     height: 15%;
     width: 100%
-
 }
+
 #container{
     background-color:  green;
     height: 75%;
     width: 100%;
-    display: flex;
 }
 
 #menu{
@@ -42,22 +42,14 @@ ul a {
     padding: 15px;
 }
 
-#bericht{
+#berichten{
     background-color:  orange;
     height: 100%;
     width: 70%;
     display:  flex;
-
 }
 
-#bericht1{
-    background-color: brown;
-    height: 20%;
-    width: 100%;
-    margin: 5px;
-}
-
-#bericht2{
+.bericht{
     background-color: brown;
     height: 20%;
     width: 100%;
