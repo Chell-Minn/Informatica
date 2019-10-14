@@ -54,8 +54,8 @@ ul a {
     height: 20%;
     width: 100%;
     margin: 5px;
+    text-align: center;
 }
-
 #plaatjes{
     background-color:  yellow;
     height: 100%;
