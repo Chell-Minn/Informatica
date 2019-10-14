@@ -1,13 +1,63 @@
 html,body{
     height: 100%;
-    width: 100%
+    width: 100%;
 }
 
 body{
+     background-color:white;
     font-size: 50px;
     margin: 0%;
 }
 
 #titel{
-    font-size: 30px
+    background-color:  aqua;
+    height: 15%;
+    width: 100%
+}
+
+#container{
+    background-color:  green;
+    height: 75%;
+    width: 100%;
+    display: flex;
+}
+
+#menu{
+    background-color: purple;
+    height: 100%;
+    width: 15%;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+ul a {
+    background-color: red;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: blue;
+    margin-top: 35px;
+    padding: 15px;
+}
+
+#berichten{
+    background-color:  orange;
+    height: 100%;
+    width: 70%;
+}
+
+.bericht{
+    background-color: brown;
+    height: 20%;
+    width: 100%;
+    margin: 5px;
+}
+
+#plaatjes{
+    background-color:  yellow;
+    height: 100%;
+    width: 15%;
 }
