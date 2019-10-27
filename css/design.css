@@ -10,7 +10,7 @@ html, body{
 }
 
 body {
-    font-family: 'Oswald', sans-serif;  
+    font-family: 'Oswald', sans-serif;
 }
 
 p {
@@ -78,7 +78,7 @@ h3 {
     height: 100%;
     width: 35%;
     color: #111111;
-    padding: 30px;
+
 }
 
 ul {
