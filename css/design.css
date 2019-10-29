@@ -24,6 +24,7 @@ h2 {
 h3 {
     font-size: 1.5rem;
 }
+
 #titel {
     background-image: url("../img/achtergrond.jpg");
     background-size: 100%;
@@ -81,6 +82,11 @@ h3 {
     padding: 30px;
 }
 
+#plaatjes img
+{
+    width: 100%;
+}
+
 ul {
     list-style-type: none;
     font-size: 1.6rem;
@@ -123,3 +129,4 @@ li a:active {
     border-collapse: collapse;
     font-family: 'Open Sans', sans-serif;
 }
+
