@@ -124,7 +124,6 @@ li a:active {
 .wikitable {
     background-color: #f8f9fa;
     color: #222;
-    border: 1px solid #474747;
     border-collapse: collapse;
     font-family: 'Open Sans', sans-serif;
 }
@@ -133,4 +132,16 @@ li a:active {
 {
     width: 100%;
     height: 95%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td{
+    padding: 4px;
 }
